@@ -1,5 +1,5 @@
 # ext-todo-library
-an extensible todolist ...library? I suppose
+an extensible TypeScript todolist ...library? I suppose
 
 ### The Core ExtensibleTodo classes ###
 * TodoItem
