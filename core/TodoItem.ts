@@ -22,7 +22,7 @@ class TodoItem {
     	this.rawText = rawText;
     }
 
-    public addToRawText(textToAdd: string){
+    public appendRawText(textToAdd: string){
     	this.rawText+=textToAdd;
     }
 
@@ -30,7 +30,7 @@ class TodoItem {
     	this.displayHtml = newHtml;
     }
 
-    public addToDisplayHtml(newHtml: string){
+    public appendDisplayHtml(newHtml: string){
     	this.displayHtml+=newHtml;
     }
 
